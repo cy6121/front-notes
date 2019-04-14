@@ -8,4 +8,5 @@
 
 - [**React**](docs/React/README.md)
 
+  - [渲染机制](docs/React/render/firstRender.md)
   - [事件机制](docs/React/event/register.md)
