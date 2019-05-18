@@ -10,3 +10,7 @@
 
   - [渲染机制](docs/React/render/firstRender.md)
   - [事件机制](docs/React/event/register.md)
+
+- [**JavaScript解惑**](docs/JavaScript/README.md)
+
+  - [this](docs/JavaScript/advance/this.md)
