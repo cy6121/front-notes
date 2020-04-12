@@ -3,6 +3,7 @@
 - 渲染
 
   - [首次渲染](render/firstRender.md)
+  - [首次渲染v.16.12.0](render/ReactFristRender.pdf)
  
 - 事件机制
 
