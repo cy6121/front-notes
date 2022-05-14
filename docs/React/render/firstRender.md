@@ -122,7 +122,7 @@ function beginWork(workInProgress) {
 
 用一张图体现更新树创建完成后的样子:
 
-![avater](../../asset/images/workInProgress.png)
+![avatar](../../asset/images/workInProgress.png)
 
 当`workInProgress`没有孩子时，即创建的孩子为空。说明已经到达底部，开始收集`effect`。
 
@@ -160,7 +160,7 @@ function completeWork(workInProgress) {
 
 协调算法过程结束后，`workInProgress`更新树更新完毕，收集的`effect list`如下:
 
-![avater](../../asset/images/effect_list.png)
+![avatar](../../asset/images/effect_list.png)
 
 #### commit阶段
 
