@@ -1,3 +1,3 @@
 ## <center>JavaScript</center>
 
-[**异步**](./Async/README.md)
+[异步](./Async/README.md)
